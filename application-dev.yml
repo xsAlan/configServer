@@ -1,0 +1,3 @@
+config:
+  code: repo:configServer, branch: main, label: dev
+  
