@@ -1,3 +1,3 @@
 config:
-  code: repo-configServer, branch-main, label-dev, version=11
+  code: repo-configServer, branch-main, label-dev, version=12
   
